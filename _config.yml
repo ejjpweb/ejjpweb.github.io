@@ -1,0 +1,26 @@
+author: 
+  name: "Emilio J. Juarez-Perez"
+  url: "https://twitter.com/ejjuarezperez"
+
+description: "<a href=\"https://www.araid.es\" target=\"_blank\">ARAID</a> Researcher at <a href=\"http://inma.unizar-csic.es\" target=\"_blank\">INMA</a>"
+
+markdown: kramdown
+
+#plugins: 
+#  - jekyll-paginate
+
+#paginate: 2
+#paginate_path: "/Posts/page:num/"
+
+permalink: pretty
+
+
+
+tagline: "PhD"
+title: "Emilio J. Juarez-Perez"
+url: "https://www.emiliojuarez.es"
+
+
+# Google services
+# google_analytics: UA-71777986-1 no necesario, hard coded. 
+
