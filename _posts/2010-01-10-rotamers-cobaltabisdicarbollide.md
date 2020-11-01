@@ -32,5 +32,23 @@ Cálculos realizados con ADF 2007. BP86/TZ2P(+)<br>
 |:--:|
 |*Mapeado del potencial electrostático para el rotámero cisoide*|
 
+### Poster presentado en el 13<sup>th</sup> International Meeting in Boron Chemistry (Imeboron 13)
+
+
+
+|![](/imgs/012751.556657679.png) |
+|:--:|
+|*Solid State Interactions between Tetramethylammonium and Cobaltabisdicarbollide. Experimental and Computational Studies*|
+|*E. J. Juárez-Pérez, R. Núñez, C. Viñas, F. Teixidor, R. Sillanpää, R. Kivekäs*|
+
+Descárgalo en .pdf [aquí](https://drive.google.com/file/d/10mG47EVHDvLxbAChsKImbn_pfHbFSkJo/view?usp=sharing).
+
+
+
+
+
+
+
+
 
 
