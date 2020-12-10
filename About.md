@@ -8,7 +8,7 @@ title: About
 ### Background
 
 <p class="message">
-Chemical Engineer (Universidad de Granada, 1998-2003 including final research project at University College of London, 2003-04), Outstanding Award PhD in Chemistry (Universidad Autónoma de Barcelona, ICMAB-CSIC, 2009), KAKENHI Young Principal Investigator from the Japan Society for the Promotion of Science (2017) and currently holding an ARAID researcher position since mid-2019. 
+Chemical Engineer (Universidad de Granada, 1998-2003 including final research project at University College of London, 2003-04), FPU fellowship, Outstanding Award PhD in Chemistry (Universidad Autónoma de Barcelona, ICMAB-CSIC, 2009), KAKENHI Young Principal Investigator from the Japan Society for the Promotion of Science (2017) and currently holding an ARAID researcher position since mid-2019. 
 <br>
 I consider myself a versatile scientist with a multidisciplinary background in Materials Science with 10+ years of experience providing PhD-level scientific services to multiple research projects conducted in academia and industry. Methodical and solutions-oriented scientist with 60+ publications in high impact peer reviewed journals and 50+ conferences. Extensive experience in fabrication and characterization of hybrid perovskite based optoelectronic devices. Enthusiastic and capable of working independently, simultaneously handling multiple projects with interest in new materials development a with experience in the  preparation of research project proposals for academic and industrial environments.
 </p>
