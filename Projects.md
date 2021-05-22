@@ -12,12 +12,12 @@ title: Projects
 
 1. Europa Investigación - 2020. EIN2020-112315
 2. [PID2019-107893RB-I00.  Perovskite-nanocrystal heterojunction solar cells with **E**xtended **A**b**S**orption and **I**mproved performance - **EASI**](https://easi.unizar.es)
-3. JIUZ-2019-CIE-05. Fundación Ibercaja-Universidad de Zaragoza de proyectos de investigación, desarrollo e innovación para jóvenes investigadores 2019.
 
 
 ## Finished
 
 1. 	[17K14551. Carbon Xerogel based Hole Transport Layer for Hybrid Halide Perovskite solar cell](https://app.dimensions.ai/details/grant/grant.6839973). Grant-in-Aid for Young Scientists (B). [KAKENHI](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K14551).
+2. JIUZ-2019-CIE-05. Fundación Ibercaja-Universidad de Zaragoza de proyectos de investigación, desarrollo e innovación para jóvenes investigadores 2019.
 
 
 
