@@ -10,8 +10,9 @@ title: Projects
 
 ## On going
 
-1. Europa Investigación - 2020. EIN2020-112315
-2. [PID2019-107893RB-I00.  Perovskite-nanocrystal heterojunction solar cells with **E**xtended **A**b**S**orption and **I**mproved performance - **EASI**](https://easi.unizar.es)
+1. Nuevas estrategias de ensamblado 2D para baterías de litio libre-de-ánodo (E2D-ALiB). 2021. Funding Entity: Gobierno de Aragón. PI: Marta Haro. Equipo Investigador: Emilio J. Juarez-Perez
+2. Europa Investigación - 2020. EIN2020-112315
+3. [PID2019-107893RB-I00.  Perovskite-nanocrystal heterojunction solar cells with **E**xtended **A**b**S**orption and **I**mproved performance - **EASI**](https://easi.unizar.es)
 
 
 ## Finished
