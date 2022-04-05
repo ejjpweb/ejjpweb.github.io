@@ -30,8 +30,11 @@ title: Projects
 )
 Publication Number WO/2022/054780; Publication Date 17.03.2022; International Application No. PCT/JP2021/032778; International Filing Date 07.09.2021; Priority Data 63/075,455; Date 08.09.2020; US.
 
-### Abstract
+> **Abstract:**
 A composite nanoarchitecture unit is disclosed. The unit comprises a columnar film grown on top of another layer where the columns touch each other at the top forming arches having optimized characteristics. This nanoarchitecture unit, called nano-vault, achieves high mechanical stability for films under strong and variable stress action.
+
+
+
 
 
 
