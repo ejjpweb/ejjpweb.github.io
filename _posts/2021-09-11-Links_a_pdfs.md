@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Links para artículos en Google Académico
+title: Links para artículos en Google Académico (actualizado)
 date: '2021-09-11T10:35:10+02:00'
 tags: []
 
 ---
+
+#### 13 Apr 2022. Post actualizado, ver más abajo
 
 Google Académico ahora indica qué artículos están disponibles en acceso público dependiendo del tipo de financiación que recibió la investigación.
 
@@ -47,6 +49,29 @@ Mientras esperamos que arreglen esto, usaré este post para listar los links a e
 10. [Spin-Coated Crystalline Molecular Monolayers for Performance Enhancement in Organic Field-Effect Transistors](/pdfs/Wang2018Spin1318.pdf)
 
 
+#### 2022-04-13. Actualización.
+
+La idea ha funcionado parcialmente. 6 de 10 artículos han sido encontrados por el robot de google.
+
+| ![](/imgs/gs4.png)  |
+|:--:|
+|*PDF encontrado en los links de este post*|
+
+Pero cuatro de ellos todavía no. Ahora se comprueba que la subida manual a drive ha sido arreglada y se pueden subir los pdfs. Los cuatro restantes que no habían sido capturados los subo por este método:
 
 
+| ![](/imgs/gs5.png)  |
+|:--:|
+|*PDFs subidos a google drive*|
+
+Y finalmente ya no me quedan artículos no accesibles.
+
+
+| ![](/imgs/gs6.png)  |
+|:--:|
+|*Public access*|
+
+
+
+ 
 
