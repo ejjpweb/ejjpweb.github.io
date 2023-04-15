@@ -355,7 +355,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Ciria-Ramos, I., Juarez-Perez, E.J. and Haro, M.</td>
 	<td>Solar Energy Storage Using a Cu2O-TiO2 Photocathode in a Lithium Battery</td>
 	<td>2023</td>
-	<td>Small</td>
+	<td>Small<br/>pp. 2301244</td>
 	<td>article <a href="https://doi.org/10.1002/smll.202301244" >DOI</a></td> 
     <td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1002/smll.202301244" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1002/smll.202301244" > </span></td>
 
