@@ -26,7 +26,9 @@ title: Projects
 1. Nuevas estrategias de ensamblado 2D para baterías de litio libre-de-ánodo (E2D-ALiB). 2021. Funding Entity: Gobierno de Aragón. PI: Marta Haro. Equipo Investigador: Emilio J. Juarez-Perez
 
 2. Europa Investigación - 2020. EIN2020-112315
+
 3. [17K14551. Carbon Xerogel based Hole Transport Layer for Hybrid Halide Perovskite solar cell](https://app.dimensions.ai/details/grant/grant.6839973). Grant-in-Aid for Young Scientists (B). [KAKENHI](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K14551).
+
 4. JIUZ-2019-CIE-05. Fundación Ibercaja-Universidad de Zaragoza de proyectos de investigación, desarrollo e innovación para jóvenes investigadores 2019.
 
 
