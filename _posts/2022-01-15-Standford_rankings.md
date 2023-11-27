@@ -20,7 +20,7 @@ Currently, there are several updates for the Stanford ranking:
 
 There are two types of classification. The most relevant is the list of scientists in the top 2% of the world which provides *standardized information on citations, h-index, co-authorship adjusted hm-index, citations to papers in different authorship positions and a composite indicator* for their **entire career** and another ranking of scientists in the top 2% of the world but only considering the **latest one year** time frame.
 
-I noticed that I appear in all three versions of the ranking considering single years (but no in the list of career-long impact).
+I noticed that I appear in the ranking considering single years (but no in the list of career-long impact).
 
 * Ranking Stanford TOP 2% Scientists for the single year 2017: position 100578 out of 106369.
 * Ranking Stanford TOP 2% Scientists for the single year 2019: position 75928 out of 161442
