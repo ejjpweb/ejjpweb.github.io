@@ -10,16 +10,24 @@ title: Projects
 
 ## On going
 
-1. Estudio y desarrollo de nuevas cerámicas fotovoltaicas ensamblables (EDIFICE). 2023. Funding Entity: Cátedra SAMCA de Nanotecnología. PI: Cristina Momblona. Equipo Investigador: Emilio J. Juarez-Perez
-2. Nuevas estrategias de ensamblado 2D para baterías de litio libre-de-ánodo (E2D-ALiB). 2021. Funding Entity: Gobierno de Aragón. PI: Marta Haro. Equipo Investigador: Emilio J. Juarez-Perez
-3. [PID2019-107893RB-I00.  Perovskite-nanocrystal heterojunction solar cells with **E**xtended **A**b**S**orption and **I**mproved performance - **EASI**](https://easi.unizar.es)
+1. CPP2022-009766. Substrato de gres porcelánico para integración arquitectónica de celdas fotovoltaicas de perovskita (BONIFACE). Proyectos Colaboración Público-Privada - AEI. Principal Investigator.
+
+2. PID2022-140516OB-I00. Diseño De Electrodos De Haluro De Perovskita Y MOF Para Baterias Solares Fotorecargables En Un Dispositivo Integrado (VOLTA). Proyectos de I+D+i Generación de Conocimiento - AEI. Research Team.
+
+3. PID2022-142182OA-I00. Procesado Ecológico De Células Solares De Perovskita Basado En Disolventes Verdes (GENIAL). Proyectos de I+D+i Generación de Conocimiento - AEI. Research Team.
+
+4. Estudio y desarrollo de nuevas cerámicas fotovoltaicas ensamblables (EDIFICE). 2023. Cátedra SAMCA de Nanotecnología. Research Team.
+
+5. [PID2019-107893RB-I00.  Perovskite-nanocrystal heterojunction solar cells with **E**xtended **A**b**S**orption and **I**mproved performance - **EASI**](https://easi.unizar.es). Principal Investigator.
 
 
 ## Finished
 
-1. Europa Investigación - 2020. EIN2020-112315
-2. [17K14551. Carbon Xerogel based Hole Transport Layer for Hybrid Halide Perovskite solar cell](https://app.dimensions.ai/details/grant/grant.6839973). Grant-in-Aid for Young Scientists (B). [KAKENHI](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K14551).
-3. JIUZ-2019-CIE-05. Fundación Ibercaja-Universidad de Zaragoza de proyectos de investigación, desarrollo e innovación para jóvenes investigadores 2019.
+1. Nuevas estrategias de ensamblado 2D para baterías de litio libre-de-ánodo (E2D-ALiB). 2021. Funding Entity: Gobierno de Aragón. PI: Marta Haro. Equipo Investigador: Emilio J. Juarez-Perez
+
+2. Europa Investigación - 2020. EIN2020-112315
+3. [17K14551. Carbon Xerogel based Hole Transport Layer for Hybrid Halide Perovskite solar cell](https://app.dimensions.ai/details/grant/grant.6839973). Grant-in-Aid for Young Scientists (B). [KAKENHI](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-17K14551).
+4. JIUZ-2019-CIE-05. Fundación Ibercaja-Universidad de Zaragoza de proyectos de investigación, desarrollo e innovación para jóvenes investigadores 2019.
 
 
 
