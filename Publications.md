@@ -388,17 +388,17 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Chuliá-Jordán, R. and Juarez-Perez, E.J.</td>
 	<td>Short Photoluminescence Lifetimes Linked to Crystallite Dimensions, Connectivity, and Perovskite Crystal Phases</td>
 	<td>2022</td>
-	<td>The Journal of Physical Chemistry C<br/>Vol. 126(7), pp. 3466-3474</td>
+	<td>J. Phys. Chem. C<br/>Vol. 126(7), pp. 3466-3474</td>
 	<td>article <a href="https://doi.org/10.1021/acs.jpcc.1c08867">DOI</a> </td>
 	<td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1021/acs.jpcc.1c08867" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1021/acs.jpcc.1c08867" > </span></td>
 </tr>
 
 
-<tr id="Jacobsson2021open1" class="entry">
+<tr id="Jacobsson2022open1" class="entry">
 	<td>Jacobsson, T.J. et al.</td>
 	<td>An open-access database and analysis tool for perovskite solar cells based on the FAIR data principles</td>
-	<td>2021</td>
-	<td>Nature Energy, pp. 1-9</td>
+	<td>2022</td>
+	<td>Nature Energy<br/>Vol. 7, pp. 107-115</td>
 	<td>article <a href="https://doi.org/10.1038/s41560-021-00941-3" >DOI</a> </td> 
 <td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1038/s41560-021-00941-3" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1038/s41560-021-00941-3" > </span></td>
 
@@ -584,7 +584,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Juarez-Perez, E.J.* and Qi, Y.</td>
 	<td>Determination of Carrier Diffusion Length Using Transient Electron Photoemission Microscopy in the GaAs/InSe Heterojunction</td>
 	<td>2019</td>
-	<td>Phys. Status Solidi B </br> pp. 1900126</td>
+	<td>Phys. Status Solidi B<br/> pp. 1900126</td>
 	<td>article <a href="http://dx.doi.org/10.1002/pssb.201900126">DOI</a> </td>
 	<td><div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1002/pssb.201900126" ></div>
  	<span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1002/pssb.201900126" > </span></td>
@@ -636,7 +636,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Liu, Z., Qiu, L., Juarez-Perez, E.J., Hawash, Z., Kim, T., Jiang, Y., Wu, Z., Raga, S.R., Ono, L.K., Liu, S.F. and Qi, Y.</td>
 	<td>Gas-solid reaction based over one-micrometer thick stable perovskite films for efficient solar cells and modules.</td>
 	<td>2018</td>
-	<td>Nat. Commun.<br/>Vol. 9(1), pp. 3880</td>
+	<td>Nature Communications.<br/>Vol. 9(1), pp. 3880</td>
 	<td>article <a href="http://dx.doi.org/10.1038/s41467-018-06317-8">DOI</a> </td>
 	<td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1038/s41467-018-06317-8" ></div>
  	<span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1038/s41467-018-06317-8" > </span></td>
@@ -751,7 +751,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Wang, S., Jiang, Y., Juarez-Perez, E.J., Ono, L.K. and Qi, Y.</td>
 	<td>Accelerated degradation of methylammonium lead iodide perovskites induced by exposure to iodine vapour</td>
 	<td>2017</td>
-	<td>Nat. Energy<br/>Vol. 2, pp. 16195</td>
+	<td>Nature Energy<br/>Vol. 2, pp. 16195</td>
 	<td>article <a href="http://dx.doi.org/10.1038/nenergy.2016.195" >DOI</a> </td> 
  	<td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1038/nenergy.2016.195" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1038/nenergy.2016.195" > </span></td>
 </tr>
@@ -911,7 +911,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Kim, H.-S., Mora-Sero, I., Gonzalez-Pedro, V., Fabregat-Santiago, F., Juarez-Perez, E.J., Park, N.-G. and Bisquert, J.</td>
 	<td>Mechanism of carrier accumulation in perovskite thin-absorber solar cells</td>
 	<td>2013</td>
-	<td>Nat. Commun.<br/>Vol. 4, pp. 2242</td>
+	<td>Nature Communications<br/>Vol. 4, pp. 2242</td>
 	<td>article <a href="http://dx.doi.org/10.1038/ncomms3242" >DOI</a> </td> 
  	<td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1038/ncomms3242" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1038/ncomms3242" > </span></td>
 </tr>
