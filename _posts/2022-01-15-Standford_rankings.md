@@ -1,14 +1,15 @@
 ---
 layout: post
-title: Stanford rankings (2021)
-date: '2022-01-15T10:35:10+02:00'
+title: Stanford rankings
+date: '2023-11-27T10:35:10+02:00'
 tags: []
 
 ---
 
 Updated: 27 Nov 2023
 
-Currently, there are several updates for the Stanford ranking:
+Currently, there are several updates for the Stanford ranking [Updated science-wide author databases of standardized citation indicators](https://doi.org/10.17632/btchxktzyw):
+
 
 * Version 1 dataset (Jul 06, 2019) at [https://doi.org/10.17632/btchxktzyw.1](https://doi.org/10.17632/btchxktzyw.1)
 * Version 2 dataset (Oct 08, 2020) at [https://doi.org/10.17632/btchxktzyw.2](https://doi.org/10.17632/btchxktzyw.2)
