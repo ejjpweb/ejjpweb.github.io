@@ -11,7 +11,7 @@ title: Home
 
 This is my professional website where you can gather information regarding my current research and teaching tasks.
 
-I am an [ARAID](https://www.araid.es) researcher at [University of Zaragoza](https://www.unizar.es)'s [Departamento de Ingeniería Química y Tecnologías del Medio Ambiente](http://iqtma.unizar.es/), [Instituto de Nanociencia y Materiales de Aragón](http://inma.unizar-csic.es) (INMA) CSIC-Universidad de Zaragoza and a member of the [Nanostructured Films & Particles](https://nfp.unizar.es) Research Group adscribed to the [Nanomaterials for Solar Energy Harvesting](https://nfp.unizar.es/research/#nanomaterials-for-solar-energy-harvesting) research line.
+I am an [ARAID](https://www.araid.es) researcher at [University of Zaragoza](https://www.unizar.es)'s [Departamento de Ingeniería Química y Tecnologías del Medio Ambiente](http://iqtma.unizar.es/), [Instituto de Nanociencia y Materiales de Aragón](http://inma.unizar-csic.es) (INMA) CSIC-Universidad de Zaragoza and a member of the [Nanostructured Films & Particles](https://nfp.unizar.es) Research Group leading the [Nanomaterials for Solar Energy Harvesting](https://nfp.unizar.es/research/#nanomaterials-for-solar-energy-harvesting) research line.
 <br>
 
 
