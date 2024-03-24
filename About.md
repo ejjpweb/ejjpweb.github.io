@@ -8,8 +8,8 @@ title: About
 ### Background
 
 <p class="message">
-As a Chemical Engineer from Universidad de Granada (1998-2003), including a final grade research project at University College of London (2003-04), I have garnered diverse experiences. Accomplishments include being an FPU fellow, earning an Outstanding Award <a href="http://hdl.handle.net/10803/3294"> PhD in Chemistry</a> from Universidad Autónoma de Barcelona, ICMAB-CSIC (2009), and being recognized as a KAKENHI Young Principal Investigator by the Japan Society for the Promotion of Science (2017). Currently, I hold a position as an ARAID researcher since mid-2019.
-</br></br>
+As a Chemical Engineer from Universidad de Granada (1998-2003), including a final grade research project at University College of London (2003-04), I have garnered diverse research experiences. Accomplishments include being an FPU fellow, earning an Outstanding Award <a href="http://hdl.handle.net/10803/3294"> PhD in Chemistry</a> from Universidad Autónoma de Barcelona, ICMAB-CSIC (2009), and being recognized as a KAKENHI Young Principal Investigator by the Japan Society for the Promotion of Science (2017). Currently, I hold a position as an ARAID researcher since mid-2019.
+<br><br>
 Since 2013, my expertise has centered on fabricating and characterizing hybrid perovskite-based optoelectronic devices, leading to a consistent <a href="https://www.emiliojuarez.es/Publications/">publication record</a> and recognition in the top 2% of scientists by <a href="https://www.emiliojuarez.es/2023/11/27/Standford_rankings/">Stanford Ranking</a> since 2017. With a multidisciplinary background in Chemistry and Materials Science, I've contributed to various <a href="https://www.emiliojuarez.es/Projects/">research projects</a> in academia and industry.
 </p>
 
