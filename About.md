@@ -27,10 +27,9 @@ Since 2013, my expertise has centered on fabricating and characterizing hybrid p
 <a href="https://twitter.com/ejjuarezperez"><img alt="mail" src="https://img.shields.io/badge/twitter-lightblue.svg"></a>         
 
 ### Research Profiles
-<!---
-<a href="https://www.webofscience.com/wos/author/rid/B-5365-2008"><img alt="WoS" src="https://img.shields.io/badge/WoS-profile-blue.svg"></a>
--->
+
 <a href="https://www.scopus.com/authid/detail.uri?authorId=25228815200"><img alt="Scopus" src="https://img.shields.io/badge/Scopus-profile-orange.svg"></a>
+<a href="https://www.webofscience.com/wos/author/record/1155965"><img alt="WoS" src="https://img.shields.io/badge/WoS-profile-blue.svg"></a>
 <a href="https://scholar.google.es/citations?user=2ONQCjIAAAAJ"><img alt="Google scholar" src="https://img.shields.io/badge/Google%20Scholar-profile-red.svg"></a>
 <a href="https://orcid.org/0000-0001-6040-1920"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-lightgreen.svg"></a>
 
