@@ -7,14 +7,15 @@ tags: []
 ---
 
 
+
 1. Lewis, N. S. Toward cost-effective solar energy use. Science 315, 798-801, [DOI](https://doi.org/10.1126/science.1137014) (2007).
 2. Kojima, A., Teshima, K., Shirai, Y. & Miyasaka, T. Organometal Halide Perovskites as Visible-Light Sensitizers for Photovoltaic Cells. J. Am. Chem. Soc. 131, 6050-6051, [DOI](https://doi.org/10.1021/ja809598r) (2009).
 3. Park, N.-G., Grätzel, M., Miyasaka, T., Zhu, K. & Emery, K. Towards stable and commercially available perovskite solar cells. Nat. Energy 1, 16152 [DOI](https://doi.org/10.1038/nenergy.2016.152) (2016).
 4. [Best Research Cell Efficiencies NREL](https://www.nrel.gov/pv/assets/pdfs/best-research-cell-efficiencies.pdf)
 5. Yu, H. J. J. & Geoffron, P. in Photovoltaic Solar Energy Conversion   (eds Shiva Gorjian & Ashish Shukla)  413-437 (Academic Press, 2020).
 6. Green, M. A. How Did Solar Cells Get So Cheap? Joule 3, 631-633, [DOI](https://doi.org/10.1016/j.joule.2019.02.010) (2019).
-7. https://www.chemistryworld.com/news/first-building-integrated-deployment-shows-perovskite-solars-growing-maturity/3009953.article
-8. https://www.longi.com/en/news/new-world-record-for-the-efficiency-of-crystalline-silicon-perovskite-tandem-solar-cells/
+7. <https://www.chemistryworld.com/news/first-building-integrated-deployment-shows-perovskite-solars-growing-maturity/3009953.article>
+8. <https://www.longi.com/en/news/new-world-record-for-the-efficiency-of-crystalline-silicon-perovskite-tandem-solar-cells/>
 9. Juarez-Perez, E. J. & Haro, M. Perovskite solar cells take a step forward. Science 368, 1309-1309, [DOI](https://doi.org/10.1126/science.abc5401) (2020).
 10. Khenkin, M. V., Katz, E. A. & others. Consensus statement for stability assessment and reporting for perovskite photovoltaics based on ISOS procedures. Nature Energy 5, 35-49, [DOI](https://doi.org/10.1038/s41560-019-0529-5) (2020).
 11. Wang, S., Jiang, Y., Juarez-Perez, E. J., Ono, L. K. & Qi, Y. Accelerated degradation of methylammonium lead iodide perovskites induced by exposure to iodine vapour. Nat. Energy 2, 16195, [DOI](https://doi.org/10.1038/nenergy.2016.195) (2017).
@@ -30,8 +31,8 @@ tags: []
 21. Dunfield, S. P. et al. From Defects to Degradation: A Mechanistic Understanding of Degradation in Perovskite Solar Cell Devices and Modules. Adv. Energy Mater. 10, 1904054, [DOI](https://doi.org/10.1002/aenm.201904054) (2020).
 22. Juarez-Perez, E. J., Momblona, C., Casas, R. & Haro, M. Enhanced Power Point Tracking for High Hysteresis Perovskite Solar Cells: A Galvanostatic Approach. arXiv, [DOI](https://doi.org/10.48550/arXiv.2312.03124) (2023).
 23. Juarez-Perez, E. J., Momblona, C., Casas, R. & Haro, M. Enhanced power-point tracking for high-hysteresis perovskite solar cells with a galvanostatic approach. Cell Reports Physical Science 5, 101885 [DOI](https://doi.org/10.1016/j.xcrp.2024.101885) (2024).
-24. https://www.nrel.gov/news/program/2018/10-years-duck-curve.html
-25. https://www.caiso.com/documents/flexibleresourceshelprenewables_fastfacts.pdf
+24. <https://www.nrel.gov/news/program/2018/10-years-duck-curve.html>
+25. <https://www.caiso.com/documents/flexibleresourceshelprenewables_fastfacts.pdf>
 26. López Prol, J., Steininger, K. W. & Zilberman, D. The cannibalization effect of wind and solar in the California wholesale electricity market. Energy Economics 85, 104552, [DOI](https://doi.org/10.1016/j.eneco.2019.104552) (2020).
 27. Peña, J. I., Rodríguez, R. & Mayoral, S. Cannibalization, depredation, and market remuneration of power plants. Energy Policy 167, 113086, [DOI](https://doi.org/10.1016/j.enpol.2022.113086) (2022).
 28. Ciria-Ramos, I., Juarez-Perez, E. J. & Haro, M. Solar Energy Storage Using a Cu2O-TiO2 Photocathode in a Lithium Battery. Small, 2301244, [DOI](https://doi.org/10.1002/smll.202301244) (2023).
