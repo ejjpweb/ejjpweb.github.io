@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Listado de Referencias para el documento "Visión"
+title: Listado de Referencias para el documento Visión
 date: '2024-07-10T18:35:10+02:00'
 tags: []
 
