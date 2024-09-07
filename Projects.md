@@ -18,7 +18,7 @@ title: Projects
 
 4. PID2022-142182OA-I00. Procesado Ecológico De Células Solares De Perovskita Basado En Disolventes Verdes (GENIAL). Proyectos de I+D+i Generación de Conocimiento - AEI. Research Team.
 
-
+5. T57-23R. Grupo de Referencia DGA. Películas y Partículas Nanoestructuradas. Grupos de investigación reconocidos por la Administración de la Comunidad de Aragón para el periodo 2023-2025. Research Team.
 
 
 ## Finished
