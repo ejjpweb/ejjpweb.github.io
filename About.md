@@ -24,7 +24,8 @@ Since 2013, my expertise has centered on fabricating and characterizing hybrid p
 <a href="mailto:ejjuarezperez@unizar.es"><img alt="mail" src="https://img.shields.io/badge/email-unizar.es-blue.svg"></a> 
 <a href="https://www.researchgate.net/profile/Emilio_Jose_Juarez-Perez"><img alt="researchgate" src="https://img.shields.io/badge/researchgate-profile-lightgreen.svg"></a> 
 <a href="https://www.linkedin.com/in/emilio-j-juarez-perez-2846a746/" ><img alt="linkedin" src="https://img.shields.io/badge/linkedin-profile-9cf.svg"></a>
-<a href="https://twitter.com/ejjuarezperez"><img alt="mail" src="https://img.shields.io/badge/twitter-lightblue.svg"></a>         
+<a href="https://bsky.app/profile/ejjuarezperez.bsky.social"><img alt="mail" src="https://img.shields.io/badge/bluesky-blue.svg"></a>         
+
 
 ### Research Profiles
 

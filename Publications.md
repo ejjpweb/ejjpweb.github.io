@@ -355,7 +355,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Ciria-Ramos, I., Garcia-Fernandez, A., Mayoral, A., Orera, A., Juarez-Perez, E.J. and Haro, M.</td>
 	<td>Electrochemical Performance of M(dca)<sub>2</sub>pyz (M= Fe, Co, and Ni) MOFs as Sustainable Anodes in Lithium-Ion Batteries</td>
 	<td>2024</td>
-	<td>J. Mater. Chem.A<br/>Vol. 12, pp. 20215-20228;</td>
+	<td>J. Mater. Chem.A<br/>Vol. 12, pp. 20215-20228</td>
 	<td>article <a href="https://doi.org/10.1039/d4ta02137a">DOI</a></td>
 	<td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1039/d4ta02137a" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1039/d4ta02137a" > </span></td>
 	
@@ -369,7 +369,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Juarez-Perez, E.J.*, Momblona, C., Casas, R. and Haro, M.</td>
 	<td>Enhanced power-point tracking for high-hysteresis perovskite solar cells with a galvanostatic approach</td>
 	<td>2024</td>
-	<td>Cell Reports Physical Science<br/>Vol. 5, pp. 101885;</td>	
+	<td>Cell Reports Physical Science<br/>Vol. 5, pp. 101885</td>	
 	<td>article <a href="https://doi.org/10.1016/j.xcrp.2024.101885" >DOI</a></td> 
 	    <td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1016/j.xcrp.2024.101885" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1016/j.xcrp.2024.101885" > </span></td>
 	
