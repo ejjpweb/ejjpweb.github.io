@@ -351,7 +351,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 
 <tbody>
 	<tr id="Arjona2025Gold179030" class="entry">
-	<td>Arjona, L.L., Garcia-Peiro, J.I., Haro, M., Hueso, J.L. and Juarez-Perez, E.J.</td>
+	<td>Arjona, L.L., Garcia-Peiro, J.I., Haro, M., Hueso, J.L.* and Juarez-Perez, E.J.*</td>
 	<td>Gold nanorods – Copper (I) oxide core-shell nanoparticles for full-visible to near-infrared responsive photodetectors</td>
 	<td>2025</td>
 	<td>Journal of Alloys and Compounds<br/>Vol. 1016, pp. 179030&nbsp;</td>
@@ -370,7 +370,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 
 </tr>
 <tr id="Sanz-Marco2024Protocol103394" class="entry">
-	<td>Sanz-Marco, A., Jeronimo-Cruz, R., Haro, M. and Juarez-Perez, E.J.</td>
+	<td>Sanz-Marco, A.*, Jeronimo-Cruz, R., Haro, M. and Juarez-Perez, E.J.*</td>
 	<td>Protocol for building and using a maximum power point output tracker for perovskite solar cells</td>
 	<td>2024</td>
 	<td>STAR Protocols<br/>Vol. 5, pp. 103394&nbsp;</td>
@@ -382,7 +382,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	
 	
 	<tr id="Ciria-Ramos2024Electrochemical20215" class="entry">
-	<td>Ciria-Ramos, I., Garcia-Fernandez, A., Mayoral, A., Orera, A., Juarez-Perez, E.J. and Haro, M.</td>
+	<td>Ciria-Ramos, I., Garcia-Fernandez, A., Mayoral, A., Orera, A., Juarez-Perez, E.J.* and Haro, M.*</td>
 	<td>Electrochemical Performance of M(dca)<sub>2</sub>pyz (M= Fe, Co, and Ni) MOFs as Sustainable Anodes in Lithium-Ion Batteries</td>
 	<td>2024</td>
 	<td>J. Mater. Chem. A<br/>Vol. 12, pp. 20215-20228</td>
