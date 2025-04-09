@@ -32,6 +32,19 @@ The [Aragón Energy Cluster recognized](https://clenar.com/el-cluster-de-la-ener
 **SAMCA Award for Technological Development (January 2025)**
 The most recent recognition came from the SAMCA Chair of Technological Development of Aragón, awarding its [5th Multidisciplinary Innovation Prize to the BONIFACE project](https://catedrasamcadt.unizar.es/noticias/premio-a-la-innovacion-para-un-proyecto-que-une-tecnologia-fotovoltaica-con-materiales-ceramicos-de-construccion-tradicionales/). The jury highlighted its innovative approach in combining photovoltaic technology with traditional ceramic construction materials, emphasizing its potential for transforming both the ceramic industry and the sustainable construction sector.
 
+*Awards Ceremony (03-Apr-2025)*
+
+![](/imgs/screenshot-mosaic.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![](/imgs/screenshot-twitt.png){:style="display:block; margin-left:auto; margin-right:auto"}
+
+[Catedra SAMCA Desarrollo tecnológico de Aragón](https://catedrasamcadt.unizar.es/noticias/la-catedra-samca-de-desarrollo-tecnologico-de-aragon-hace-entrega-del-premio-a-la-innovacion-multidisciplinar-en-su-quinta-edicion/)
+
+[Video and pictures](https://catedrasamcadt.unizar.es/foro-tecnologico-y-empresarial/neurotecnologia-y-salud-contribuciones-desde-la-innovacion/)
+
+
+
+
+
 ### Project Impact
 
 The BONIFACE project represents a significant advancement in sustainable building technologies, combining environmental benefits with economic innovation. By integrating photovoltaic technology with traditional ceramic materials, the project simultaneously addresses energy efficiency and construction sustainability while creating new market opportunities. This approach not only revitalizes the Spanish ceramic industry but also positions Spain as a leader in building-integrated photovoltaic technology. The project's comprehensive impact extends from reducing CO2 emissions to improving building energy efficiency, ultimately benefiting end-users through reduced energy costs and enhanced thermal comfort.
@@ -45,7 +58,6 @@ These recognitions reinforce our commitment to technology transfer and industria
 Special thanks to our research team members  and collaborators Marta Haro Remón, Roberto Casas, Arturo Sanz Marco, Alberto Lafuente and Cristina Momblona Rincón, as well as our institutional partners at INMA CSIC-University of Zaragoza and the SAMCA Group. These achievements would not be possible without their collaborative effort and support.
 
 | ![](/imgs/screenshot-27ene25-012756.136677309.png)| ![](/imgs/screenshot-27ene25-012802.416477102.png)|
-
 
 
 
