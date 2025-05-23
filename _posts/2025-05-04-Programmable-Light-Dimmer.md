@@ -23,6 +23,12 @@ Testing how solar panels, sensors, and other components respond to these lightin
 *Figure: The light dimmer, unboxed components*
 {: style="color:gray; font-size: 70%; text-align: center;"}
 
+![Hardware Setup2](/imgs/foto-dimmer-asemble-box.png){:style="display:block; margin-left:auto; margin-right:auto"}
+*Figure: The light dimmer in a box*
+{: style="color:gray; font-size: 70%; text-align: center;"}
+
+
+
 Our system consists of a Raspberry Pi Pico microcontroller-based dimmer circuit that can control the power output of a halogen dichroic lamp to simulate different lighting patterns. The key features include:
 
 - **Dual operation modes**: Manual power selection or programmable automatic cycles
