@@ -10,15 +10,17 @@ title: Projects
 
 ## On going
 
-1. Sistema De Seguimiento De Maximo Punto De Potencia (Perovskino). OTRI-UNIZAR. Principal Investigator
+1. CPP2024-011460. Fabricación aditiva de celdas fotovoltaicas en cerámica (HELIACER). Proyectos Colaboración Público-Privada - AEI. Principal Investigator.
 
-2. CPP2022-009766. Substrato de gres porcelánico para integración arquitectónica de celdas fotovoltaicas de perovskita (BONIFACE). Proyectos Colaboración Público-Privada - AEI. Principal Investigator.
+2. Sistema De Seguimiento De Maximo Punto De Potencia (Perovskino). OTRI-UNIZAR. Principal Investigator
 
-3. PID2022-140516OB-I00. Diseño De Electrodos De Haluro De Perovskita Y MOF Para Baterias Solares Fotorecargables En Un Dispositivo Integrado (VOLTA). Proyectos de I+D+i Generación de Conocimiento - AEI. Research Team.
+3. CPP2022-009766. Substrato de gres porcelánico para integración arquitectónica de celdas fotovoltaicas de perovskita (BONIFACE). Proyectos Colaboración Público-Privada - AEI. Principal Investigator.
 
-4. PID2022-142182OA-I00. Procesado Ecológico De Células Solares De Perovskita Basado En Disolventes Verdes (GENIAL). Proyectos de I+D+i Generación de Conocimiento - AEI. Research Team.
+4. PID2022-140516OB-I00. Diseño De Electrodos De Haluro De Perovskita Y MOF Para Baterias Solares Fotorecargables En Un Dispositivo Integrado (VOLTA). Proyectos de I+D+i Generación de Conocimiento - AEI. Research Team.
 
-5. T57-23R. Grupo de Referencia DGA. Películas y Partículas Nanoestructuradas. Grupos de investigación reconocidos por la Administración de la Comunidad de Aragón para el periodo 2023-2025. Research Team.
+5. PID2022-142182OA-I00. Procesado Ecológico De Células Solares De Perovskita Basado En Disolventes Verdes (GENIAL). Proyectos de I+D+i Generación de Conocimiento - AEI. Research Team.
+
+6. T57-23R. Grupo de Referencia DGA. Películas y Partículas Nanoestructuradas. Grupos de investigación reconocidos por la Administración de la Comunidad de Aragón para el periodo 2023-2025. Research Team.
 
 
 ## Finished
