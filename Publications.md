@@ -353,7 +353,7 @@ p.infolinks { margin: 0.3em 0em 0em 0em; padding: 0px; }
 	<td>Operando Raman and ex situ characterization of an iron-based conductive MOF as a negative electrode in Li-ion batteries</td>
 	<td>2025</td>
 	<td>Dalton Transactions<br/>Vol. 54(24), pp. 9714-9725</td>
-	<td>article<a href="https://doi.org/10.1039/d5dt00893j">DOI</a></td>
+	<td>article <a href="https://doi.org/10.1039/d5dt00893j">DOI</a></td>
 		<td> <div class='altmetric-embed' data-badge-type='donut' data-hide-no-mentions='true' data-badge-popover="left" data-doi="10.1039/d5dt00893j" ></div> <span class="__dimensions_badge_embed__" data-style="small_rectangle" data-doi="10.1039/d5dt00893j"> </span></td>	
 </tr>
 
