@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Stanford rankings
-date: '2023-11-27T10:35:10+02:00'
+date: '2026-02-22T17:52:10+02:00'
 tags: []
 
 ---
 
-Updated: 02 Feb 2025
+Updated: 22 Feb 2026
 
 Currently, there are several updates for the Stanford ranking [Updated science-wide author databases of standardized citation indicators](https://doi.org/10.17632/btchxktzyw):
 
@@ -17,7 +17,8 @@ Currently, there are several updates for the Stanford ranking [Updated science-w
 * Version 4 dataset (Oct 10, 2022) at [https://doi.org/10.17632/btchxktzyw.4](https://doi.org/10.17632/btchxktzyw.4)
 * Version 5 dataset (Nov 03, 2022) at [https://doi.org/10.17632/btchxktzyw.5](https://doi.org/10.17632/btchxktzyw.5)
 * Version 6 dataset (Oct 04, 2023) at [https://doi.org/10.17632/btchxktzyw.6](https://doi.org/10.17632/btchxktzyw.6)
-* Version 7 dataset (Sep 16, 2024) at [https://doi.org/10.17632/btchxktzyw.7](https://doi.org/10.17632/btchxktzyw.6)
+* Version 7 dataset (Sep 16, 2024) at [https://doi.org/10.17632/btchxktzyw.7](https://doi.org/10.17632/btchxktzyw.7)
+* Version 8 dataset (Sep 19, 2025) at [https://doi.org/10.17632/btchxktzyw.8](https://doi.org/10.17632/btchxktzyw.8)
 
 There are two types of classification. The most relevant is the list of scientists in the top 2% of the world which provides *standardized information on citations, h-index, co-authorship adjusted hm-index, citations to papers in different authorship positions and a composite indicator* for their **entire career** and another ranking of scientists in the top 2% of the world but only considering the **latest one year** time frame.
 
@@ -29,6 +30,6 @@ I noticed that I appear in the ranking considering single years (but no in the l
 * Ranking Stanford TOP 2% Scientists for the single year 2021: position 67386 out of 200196.
 * Ranking Stanford TOP 2% Scientists for the single year 2022: position 81507 out of 210198.
 * Ranking Stanford TOP 2% Scientists for the single year 2023: position 90790 out of 223153.
-
+* Ranking Stanford TOP 2% Scientists for the single year 2024: position 97541 out of 236313.
 
 
